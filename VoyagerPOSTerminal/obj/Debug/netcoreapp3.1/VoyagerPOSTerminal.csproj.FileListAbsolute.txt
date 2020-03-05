@@ -1,0 +1,8 @@
+C:\Users\caman\source\repos\VoyagerPOSTerminal\VoyagerPOSTerminal\obj\Debug\netcoreapp3.1\VoyagerPOSTerminal.AssemblyInfoInputs.cache
+C:\Users\caman\source\repos\VoyagerPOSTerminal\VoyagerPOSTerminal\obj\Debug\netcoreapp3.1\VoyagerPOSTerminal.AssemblyInfo.cs
+C:\Users\caman\source\repos\VoyagerPOSTerminal\VoyagerPOSTerminal\bin\Debug\netcoreapp3.1\VoyagerPOSTerminal.deps.json
+C:\Users\caman\source\repos\VoyagerPOSTerminal\VoyagerPOSTerminal\bin\Debug\netcoreapp3.1\VoyagerPOSTerminal.dll
+C:\Users\caman\source\repos\VoyagerPOSTerminal\VoyagerPOSTerminal\bin\Debug\netcoreapp3.1\VoyagerPOSTerminal.pdb
+C:\Users\caman\source\repos\VoyagerPOSTerminal\VoyagerPOSTerminal\obj\Debug\netcoreapp3.1\VoyagerPOSTerminal.dll
+C:\Users\caman\source\repos\VoyagerPOSTerminal\VoyagerPOSTerminal\obj\Debug\netcoreapp3.1\VoyagerPOSTerminal.pdb
+C:\Users\caman\source\repos\VoyagerPOSTerminal\VoyagerPOSTerminal\obj\Debug\netcoreapp3.1\VoyagerPOSTerminal.csprojAssemblyReference.cache
